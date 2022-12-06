@@ -1,10 +1,11 @@
+![Alexey Poznyak](https://sun9-52.userapi.com/impg/GOglDh2ZGV5ZO60dYJ2Wfc929t1BqzxxEPGpsw/Kznh6sLLpVQ.jpg?size=120x120&quality=96&sign=25039c169bb38dbc93dd856daef6af9f&type=album)
+
 # Alexey Poznyak
 #### Junior Frontend Developer
 
 ****
 
 ### Contacts information
-* **Phone:** +375 33 6665944
 * **Email:** 6665944.aleksey@gmail.com
 * **Telegram:** @alexeypoznyak
 ****
