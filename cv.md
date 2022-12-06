@@ -3,13 +3,13 @@
 # Alexey Poznyak
 #### Junior Frontend Developer
 
-****
+******
 
 ### Contacts information
 * **Email:** 6665944.aleksey@gmail.com
 * **Telegram:** @alexeypoznyak
 
-****
+******
 
 ### Briefly About Myself
 As a teenager, I had a CD with a course in HTML and CSS. Having passed them, I received sufficient knowledge to create a website for the school museum.
@@ -20,7 +20,7 @@ After graduation, he worked as a teacher of various disciplines, including compu
 
 Every year we have to make more and more efforts to keep up with new trends in the creation of information products. But I don't give up!
 
-****
+******
 
 ### Skills and Proficiency
 * HTML&CSS
@@ -28,7 +28,7 @@ Every year we have to make more and more efforts to keep up with new trends in t
 * Joomla
 * Photoshop
 
-****
+******
 
 ### Languages
 * Belorussian
