@@ -8,6 +8,7 @@
 ### Contacts information
 * **Email:** 6665944.aleksey@gmail.com
 * **Telegram:** @alexeypoznyak
+
 ****
 
 ### Briefly About Myself
@@ -18,6 +19,7 @@ After leaving school, despite the fact that my specialty was not related to prog
 After graduation, he worked as a teacher of various disciplines, including computer science. In parallel with teaching, he combined the position of a programmer, administering the website of the educational institution.
 
 Every year we have to make more and more efforts to keep up with new trends in the creation of information products. But I don't give up!
+
 ****
 
 ### Skills and Proficiency
@@ -25,6 +27,7 @@ Every year we have to make more and more efforts to keep up with new trends in t
 * JavaScript
 * Joomla
 * Photoshop
+
 ****
 
 ### Languages
