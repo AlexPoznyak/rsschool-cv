@@ -8,6 +8,7 @@
 ### Contacts information
 * **Email:** 6665944.aleksey@gmail.com
 * **Telegram:** @alexeypoznyak
+* **Discord:** Aleksey Poznyak (@alexpoznyak)
 
 ******
 
